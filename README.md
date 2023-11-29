@@ -12,7 +12,7 @@ Languages and Tools:
 <!-- https://github.com/github/explore/blob/main/topics/git/git.png?raw=true -->
 
 - ⚡ Java / Kotlin.
-- 🖋 Writer at [SSPai](https://sspai.com/u/hvvlsjqb/updates) / [CSDN](https://blog.csdn.net/Stunner_W?type=blog) 
+- 🖋 Writer at [SSPai](https://sspai.com/u/hvvlsjqb/updates) / [CSDN](https://blog.csdn.net/Stunner_W?type=blog) / [JueJin](https://juejin.cn/user/395479918064910/posts) 
 - 👀 I’m interested in Android
 - 🌱 I’m currently learning Jetpack / Kotlin
 - 🏃 Badminton / Table Tennis / Cycling
